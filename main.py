@@ -4,7 +4,6 @@
 # Collaborator: John Sweetall jts6052@psu.edu
 # Section: 2
 # Breakout: 11
-
 def getLetterGrade(grad):
   if grad >= 93.0:
     return 'A'
